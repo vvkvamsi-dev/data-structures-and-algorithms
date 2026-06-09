@@ -6,6 +6,6 @@ My DSA learning repository.
 
 ### Array & Hashing
 
+- [x] Contains Duplicate
 - [ ] Two Sum
-- [ ] Contains Duplicate
 - [ ] Valid Anagram
