@@ -4,6 +4,9 @@ My DSA learning repository.
 
 ## Progress
 
+### Math
+- [x] Reverse Integer
+
 ### Array & Hashing
 
 - [x] Contains Duplicate
